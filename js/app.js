@@ -154,7 +154,9 @@ function checkResult(){
         clearInterval(time);
         swal({
             title: "Congratulations !!!",
-            text: sessionStorage.getItem("moves") === null ? `You won with time: ${minutes} min ${seconds} sec \nand ${scores} scores (${moves} moves)` : `You won with time: ${minutes} min ${seconds} sec \nand ${scores} scores (${moves} moves)! \n Last time you had ${sessionStorage.getItem("moves")} moves`,
+            text: sessionStorage.getItem("moves") === null ? `You won! your time is: ${minutes} min ${seconds} sec \n
+                                                                your score is: ${scores} with (${moves} moves)` : `You won! your time is: : ${minutes} min ${seconds} sec \n
+                                                                your score is: ${scores} with (${moves} moves)!`,
             type: "success",
             confirmButtonText: "Play again!"
         }).then(function(isConfirm) {
