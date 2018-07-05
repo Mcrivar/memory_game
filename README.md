@@ -7,7 +7,7 @@
 
 ## How To Play
 
-Start the game here: https://mcrivar.github.io/memory_game/index.html  or clone the project and open the index.html file.
+Start the game here: https://mcrivar.github.io/memory_game/  or clone the project and open the index.html file.
 
 Click on the card to start the game and the count down.
 
