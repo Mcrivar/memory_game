@@ -5,7 +5,7 @@ This is a Memory game from Udacity Front-End NanoDegree project. Please follow t
 ## Table of Contents
 
 * [How To Play](#howtoplay)
-* [Source](#Source)
+* [Source](#source)
 
 ## HowToPlay
 
