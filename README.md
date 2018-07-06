@@ -4,10 +4,10 @@ This is a Memory game from Udacity Front-End NanoDegree project. Please follow t
 
 ## Table of Contents
 
-* [How To Play](#howtoplay)
+* [How To Play](#how to play)
 * [Source](#source)
 
-## HowToPlay
+## How To Play
 
 Start the game here: https://mcrivar.github.io/memory_game/  or clone the project and open the index.html file.
 
