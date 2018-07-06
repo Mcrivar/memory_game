@@ -11,9 +11,9 @@ This is a Memory game from Udacity Front-End NanoDegree project. Please follow t
 
 Start the game here: https://mcrivar.github.io/memory_game/  or clone the project and open the index.html file.
 
-Click on the card to start the game and the count down.
+When the page is loaded, click on one of the cards to start the game and the count down.
 
-Get the suitable pairs in order to finish the game as faster as possible
+Get the suitable pairs in order to finish the game as fast as possible
 
 The game ends when all possible matches are found.
 
@@ -27,8 +27,9 @@ https://github.com/udacity/fend-project-memory-game
 
 ## Dependencies 
 
-sweetalert2 - A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES
+sweetalert2 - https://sweetalert2.github.io/
+font-awesome - https://fontawesome.com/
 
-can be found here: https://sweetalert2.github.io/
+
 
 
