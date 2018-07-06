@@ -4,7 +4,7 @@ This is a Memory game from Udacity Front-End NanoDegree project. Please follow t
 
 ## Table of Contents
 
-* [How To Play](#howtoplay)
+* [How To Play](#how%20to%20play)
 * [Source](#source)
 
 ## How To Play
